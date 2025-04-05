@@ -1,59 +1,31 @@
-# BarberShopUi
+# Barber Shop UI
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
+Bem-vindo ao **Barber Shop UI**, a interface do usuário desenvolvida para complementar o sistema **Barber Shop API**. Este projeto foi criado como parte de um desafio da plataforma **Digital Innovation One (DIO)**, proporcionando uma experiência prática de desenvolvimento frontend integrado com backend.
 
-## Development server
+## Recursos
 
-To start a local development server, run:
+- **Interface Amigável**: Design intuitivo para facilitar a interação dos usuários.
+- **Gerenciamento de Agendamentos**: Visualização e criação de reservas de horários.
+- **Catálogo de Serviços**: Listagem dos serviços da barbearia.
+- **Integração com a API**: Conexão direta com o backend para sincronização de dados.
 
-```bash
-ng serve
-```
+## Tecnologias Utilizadas
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- **React**: Biblioteca para construção da interface do usuário.
+- **JavaScript**: Linguagem principal para o desenvolvimento frontend.
+- **CSS/SCSS**: Estilização do projeto.
+- **Axios**: Biblioteca para comunicação com a API.
+- **Bootstrap**: Framework para componentes de design responsivo.
 
-## Code scaffolding
+## Sobre o Projeto
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+O objetivo é desenvolver uma interface de usuário funcional e esteticamente agradável, consumindo os dados da **Barber Shop API** para criar uma experiência completa de gerenciamento de barbearia.
 
-```bash
-ng generate component component-name
-```
+## Contribuição
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Contribuições são bem-vindas! Siga os passos abaixo:
 
-```bash
-ng generate --help
-```
+1. Faça um fork deste repositório.
+2. Crie um branch para sua funcionalidade:
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Aproveite a exploração e desenvolvimento do projeto!
